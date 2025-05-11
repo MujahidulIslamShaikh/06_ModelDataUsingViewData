@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\modeldatausingviewdata\\modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\modeldatausingviewdata\\modeldatausingviewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\modeldatausingviewdata\\modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Program.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Program.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Program.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:08:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T21:52:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T21:39:26.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:39:09.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:37:25.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
