@@ -1,18 +1,37 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ModelDataUsingViewData.Models;
+using ModelDataUsingViewData.Repository;
 
 namespace ModelDataUsingViewData.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+            private readonly EmployeeRepository _EmployeeRepository = null; // add referance variable
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;
-        }
 
+            _logger = logger;
+            _EmployeeRepository = new EmployeeRepository();
+        }
+        public IActionResult EmployeeListData()
+        {
+            List<Employee> empListData = _EmployeeRepository.getAllEmployee();
+            return View(empListData);
+        }
+        public IActionResult StronglyTypedViews()
+        {
+            Employee emp = new Employee()
+            {
+                EmpId = 1001,
+                EmpName = "Mujahid",
+                Designation = "Manager",
+                Salary = 25000
+            };
+            return View(emp);
+        }   
         public IActionResult Index()
         {
             Employee emp = new Employee() 

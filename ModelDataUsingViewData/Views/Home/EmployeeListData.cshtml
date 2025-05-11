@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ModelDataUsingViewData.Models.Employee>
+@{
+    ViewData["Title"] = "EmployeeListData";
+}
+
+<h1>EmployeeListData</h1>
+<h3>This data is get by Strongly Typed View by HomeController in which get by EmployeeRepository .</h3>
+@if (Model != null)
+{
+    <ul>
+
+    @foreach(var item in Model)
+    {
+        <li>Id: @item.EmpId,  EmpName : @item.EmpName,  Designation : @item.Designation,  Salary : @item.Salary,  </li>
+    }
+
+    </ul>
+} else
+{
+    <li>DATA NOT FOUND !!</li>
+}
