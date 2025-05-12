@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\employeelistdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\employeelistdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\stronglytypedviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\stronglytypedviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\repository\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\repository\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,143 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeListData.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\EmployeeListData.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\EmployeeListData.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\EmployeeListData.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\EmployeeListData.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:45:50.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Repository\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Repository\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Repository\\EmployeeRepository.cs",
-              "RelativeToolTip": "ModelDataUsingViewData\\Repository\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:33:41.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Repository\\IEmployee.cs",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Repository\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Repository\\IEmployee.cs",
-              "RelativeToolTip": "ModelDataUsingViewData\\Repository\\IEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:31:56.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:39:09.518Z",
+              "WhenOpened": "2025-05-12T02:59:52.453Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
-              "RelativeToolTip": "ModelDataUsingViewData\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:37:25.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StronglyTypedViews.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\StronglyTypedViews.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\StronglyTypedViews.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\StronglyTypedViews.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\StronglyTypedViews.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:18:25.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T21:52:20.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:24:47.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwBQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:24:52.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T21:39:26.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Program.cs",
-              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Program.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Program.cs",
-              "RelativeToolTip": "ModelDataUsingViewData\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:08:51.313Z"
             }
           ]
         }

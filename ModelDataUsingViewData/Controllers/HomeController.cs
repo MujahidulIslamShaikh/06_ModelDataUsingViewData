@@ -8,7 +8,7 @@ namespace ModelDataUsingViewData.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-            private readonly EmployeeRepository _EmployeeRepository = null; // add referance variable
+        private readonly EmployeeRepository _EmployeeRepository = null; // add referance variable
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -31,7 +31,19 @@ namespace ModelDataUsingViewData.Controllers
                 Salary = 25000
             };
             return View(emp);
-        }   
+        }
+        public IActionResult StudentForm()
+        {
+            return View();
+        }
+        [HttpPost]
+        //[Route("Home/StudentForm")]
+        public string StudentForm(Student std)
+        {
+            return std.Name;
+            //return View();
+        }
+
         public IActionResult Index()
         {
             Employee emp = new Employee() 

@@ -4,10 +4,9 @@
     var empViewBag = ViewBag.myEmpData;
     var empTemp = TempData["myEmployee"] as Employee;
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div>
+   <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <a asp-controller="Home" asp-action="StudentForm"> Student Form </a>
 </div>
 
 @if (emp != null)
@@ -22,3 +21,6 @@
 {
     <h3>Data Not Found!</h3>
 }
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn abo
