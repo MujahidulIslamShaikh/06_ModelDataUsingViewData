@@ -5,16 +5,17 @@ using ModelDataUsingViewData.Repository;
 
 namespace ModelDataUsingViewData.Controllers
 {
+    //[Route("Home")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly EmployeeRepository _EmployeeRepository = null; // add referance variable
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly EmployeeRepository _EmployeeRepository; // add referance variable
+
+        public HomeController(ILogger<HomeController> logger, EmployeeRepository employeeRepository)
         {
-
             _logger = logger;
-            _EmployeeRepository = new EmployeeRepository();
+            _EmployeeRepository = employeeRepository;
         }
         public IActionResult EmployeeListData()
         {
@@ -38,10 +39,10 @@ namespace ModelDataUsingViewData.Controllers
         }
         [HttpPost]
         //[Route("Home/StudentForm")]
-        public string StudentForm(Student std)
+        public IActionResult StudentForm(Student std)
         {
-            return std.Name;
-            //return View();
+            //return std.Name;
+            return View(std);
         }
 
         public IActionResult Index()
@@ -71,6 +72,55 @@ namespace ModelDataUsingViewData.Controllers
             ViewData["empData"] = myEmployee;
             //ViewBag.empData = myEmployee;
             //TempData["empData"] = myEmployee;
+            return View();
+        }
+        //[Route("CheckBox")]
+        //public IActionResult CheckBox()
+        //{
+            
+        //    var model = new CheckModel()
+        //    {
+        //        AcceptTerms = false,
+        //        Text = "I accept the terms.",
+        //        UserName = "Mujahid",
+        //        Age = 22,
+        //        Cont_number = 7350441912
+        //    };
+        //    return View(model);
+        //}
+        public IActionResult CheckBox()
+        {
+            var model = new CheckModel()
+            {
+                CheckBoxes = new List<SingleCheckBoxModel>
+                {
+                    new SingleCheckBoxModel()
+                    {
+                        IsChecked = true,
+                        Text = "Cricket",
+                        Value = "Cricket"
+                    },
+                    new SingleCheckBoxModel()
+                    {
+                        IsChecked = false,
+                        Text = "Football",
+                        Value = "Football"
+                    },
+                    new SingleCheckBoxModel()
+                    {
+                        IsChecked = false,
+                        Text = "Hocky",
+                        Value = "Hocky"
+                    }
+                }     
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        public IActionResult CheckBox(CheckModel data)
+        {
+            //var value = data.AcceptTerms;
             return View();
         }
 

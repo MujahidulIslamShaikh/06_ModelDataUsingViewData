@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\models\\singlecheckboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\singlecheckboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\checkbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\checkbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\name\\source\\repos\\06_modeldatausingviewdata\\modeldatausingviewdata\\models\\checkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C95B2-45D9-46A9-8B31-58094195F328}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\checkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleCheckBoxModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\SingleCheckBoxModel.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\SingleCheckBoxModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\SingleCheckBoxModel.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Models\\SingleCheckBoxModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:15.398Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +49,35 @@
               "RelativeDocumentMoniker": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:59:52.453Z",
+              "WhenOpened": "2025-05-14T18:46:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\CheckModel.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\CheckModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\CheckModel.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Models\\CheckModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:45:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\CheckBox.cshtml",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\CheckBox.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\06_ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\CheckBox.cshtml*",
+              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\CheckBox.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:39:15.948Z",
               "EditorCaption": ""
             }
           ]

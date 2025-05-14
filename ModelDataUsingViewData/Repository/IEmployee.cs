@@ -1,5 +1,7 @@
 ﻿using ModelDataUsingViewData.Models;
 
+
+
 namespace ModelDataUsingViewData.Repository
 {
     public interface IEmployee

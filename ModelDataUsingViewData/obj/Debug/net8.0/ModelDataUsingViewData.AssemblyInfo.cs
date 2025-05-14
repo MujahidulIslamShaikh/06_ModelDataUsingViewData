@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModelDataUsingViewData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d71e4b999532b8d589c2e28590e873b3bc4365")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb2df9c604a383629f4b87109c03c64b11719c5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModelDataUsingViewData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModelDataUsingViewData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
